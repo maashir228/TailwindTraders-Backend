@@ -9,7 +9,7 @@
       "type": "securestring"
     },
     "aksVersion": {
-      "defaultValue":"1.28"
+      "defaultValue":"1.28",
       "type": "string"
     },
     "components_app_insights_name": {
