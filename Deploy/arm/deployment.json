@@ -16,10 +16,10 @@
       "type": "string"
     },
     "sqlServerAdministratorLogin": {
-    "value": "sqladmin"
+    "type": "string"
   },
       "sqlServerAdministratorLoginPassword": {
-    "value": "P2ssw0rd@123"
+    "type": "string"
   }
   },
   "variables": {
