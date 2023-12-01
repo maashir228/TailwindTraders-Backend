@@ -14,13 +14,7 @@
     "components_app_insights_name": {
       "defaultValue": "tt-app-insights",
       "type": "string"
-    },
-    "sqlServerAdministratorLogin": {
-    "type": "string"
-  },
-      "sqlServerAdministratorLoginPassword": {
-    "type": "string"
-  }
+    }
   },
   "variables": {
     "acr_name": "[concat('ttacr',uniqueString(resourceGroup().id))]",
